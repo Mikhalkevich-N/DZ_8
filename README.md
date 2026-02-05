@@ -80,7 +80,7 @@ Stored XSS via HTML Attribut
 ![png](image-4.png)
 
 ## Этап 4. Анализ результатов
-Файл с перехваченым трафиком: 
+Файл с перехваченым трафиком: [traffic.pcap](https://github.com/Mikhalkevich-N/DZ_8/blob/main/traffic.pcap)
 
 1. Просмотр общего списка HTTP-запросов и ответов
 
