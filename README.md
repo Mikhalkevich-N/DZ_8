@@ -47,7 +47,7 @@
     return packets
 
    ```
-   версия скрипта с изменениями:
+   версия скрипта с изменениями:  [ my_scapy_script.py ](https://github.com/Mikhalkevich-N/DZ_8/blob/main/my_scapy_script.py)
 2. Просмотр захваченных пакетов  непосредственно через Python:
 
    ![png](image-2.png)
@@ -76,7 +76,7 @@ Stored XSS via HTML Attribut
 
  Использование скрипта для автоматизации тестирования 
   отправки различных XSS-полезных нагрузок .
- Скрипт: 
+ Скрипт: [my_scapy_script3.py](https://github.com/Mikhalkevich-N/DZ_8/blob/main/my_scapy_script3.py)
 ![png](image-4.png)
 
 ## Этап 4. Анализ результатов
